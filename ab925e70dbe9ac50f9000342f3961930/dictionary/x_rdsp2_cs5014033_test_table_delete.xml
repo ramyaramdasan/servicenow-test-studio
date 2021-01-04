@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Table Delete" max_length="40" name="x_rdsp2_cs5014033_test_table_delete" type="collection">
+        <element label="Test 2" max_length="40" name="test_2" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Test 1" max_length="40" name="test_1" type="string"/>
+    </element>
+</database>
