@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Delete Table">01b55238dbe9ac50f9000342f3961968</application>
+        <filter/>
+        <name>Delete Tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_rdsp2_cs5014033.delete_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 11:44:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41b55238dbe9ac50f9000342f396196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete Tables</sys_name>
+        <sys_package display_value="CS5014033 - Test Studio " source="x_rdsp2_cs5014033">ab925e70dbe9ac50f9000342f3961930</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CS5014033 - Test Studio ">ab925e70dbe9ac50f9000342f3961930</sys_scope>
+        <sys_update_name>sys_ui_module_41b55238dbe9ac50f9000342f396196b</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 11:44:27</sys_updated_on>
+        <table>x_rdsp2_cs5014033_delete_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CS5014033 - Test Studio ">ab925e70dbe9ac50f9000342f3961930</application>
+        <file_path/>
+        <instance_id>5668b40bdb18eb041ddcf22ebf9619fc</instance_id>
+        <instance_name>shelldev2</instance_name>
+        <name>sys_ui_module_41b55238dbe9ac50f9000342f396196b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Delete Table">01b55238dbe9ac50f9000342f3961968</application><filter/><name>Delete Tables</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_rdsp2_cs5014033.delete_table_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>INRRMP</sys_created_by><sys_created_on>2021-01-04 11:44:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41b55238dbe9ac50f9000342f396196b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete Tables</sys_name><sys_package display_value="CS5014033 - Test Studio " source="x_rdsp2_cs5014033">ab925e70dbe9ac50f9000342f3961930</sys_package><sys_policy/><sys_scope display_value="CS5014033 - Test Studio ">ab925e70dbe9ac50f9000342f3961930</sys_scope><sys_update_name>sys_ui_module_41b55238dbe9ac50f9000342f396196b</sys_update_name><sys_updated_by>INRRMP</sys_updated_by><sys_updated_on>2021-01-04 11:44:27</sys_updated_on><table>x_rdsp2_cs5014033_delete_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1026067226</payload_hash>
+        <record_name>Delete Tables</record_name>
+        <reverted_from/>
+        <source>fa345a34dbe9ac50f9000342f3961922</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 11:44:27</sys_created_on>
+        <sys_id>0db55238dbe9ac50f9000342f396196d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176cd3677ac0000001</sys_recorded_at>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 11:44:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>05b55238b7e9ac5046fe095a92370b6d</update_guid>
+        <update_guid_history>05b55238b7e9ac5046fe095a92370b6d:1026067226</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 11:47:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0d61f68fae144c40aa219d3694576400</sys_id>
+        <sys_metadata>41b55238dbe9ac50f9000342f396196b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete Tables</sys_name>
+        <sys_package display_value="CS5014033 - Test Studio " source="x_rdsp2_cs5014033">ab925e70dbe9ac50f9000342f3961930</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CS5014033 - Test Studio ">ab925e70dbe9ac50f9000342f3961930</sys_scope>
+        <sys_scope_delete display_value="">03a6dc36380e41a194d8196c181cdaf1</sys_scope_delete>
+        <sys_update_name>sys_ui_module_41b55238dbe9ac50f9000342f396196b</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_41b55238dbe9ac50f9000342f396196b">0db55238dbe9ac50f9000342f396196d</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 11:47:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
